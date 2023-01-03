@@ -37,7 +37,7 @@ This WG communicates on the following channels:
 
 ## Meetings
 
-See the [Open Mainframe Project public calendar](https://lists.openmainframeproject.org/calendar). This WG meets _meeting day/time and frequency_. 
+See the [Open Mainframe Project public calendar](https://calendar.openmainframeproject.org). This WG meets _meeting day/time and frequency_. 
 
 _provide the Zoom/conference call details_
 
