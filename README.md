@@ -26,8 +26,8 @@ _provide a list of planned deliverables, or links to the deliverables. A best pr
 
 This WG communicates on the following channels:
 
-- _link to mailing list_
-- _slack channel_
+- _link to mailing list_https://lists.openmainframeproject.org/g/wg-mainframe-modernization
+- _slack channel_#wg-modernization
 - _any other channels_
 ...
 
