@@ -2,7 +2,19 @@
 
 # Modernization Workgroup
 
-**The Modernization Working Group** will create a common definition and framework around modernization in the mainframe space; produce educational material and promote all messages and definitions wider landscape for better alignment.
+**The Modernization Working Group** will create a common definition and framework around modernization in the mainframe space; produce educational material and promote all messages and definitions wider landscape for better alignment.
+
+## Project Structure
+
+The repository is organized into the following main sections:
+- `docs/definitions`: Definitions and core concepts related to mainframe modernization.
+- `docs/frameworks`: Detailed frameworks and methodologies for modernization projects.
+- `docs/use-cases`: Real-world scenarios and use cases for modernization.
+- `docs/case-studies`: In-depth analysis of successful modernization journeys.
+- `docs/whitepapers`: Technical whitepapers and research papers.
+- `docs/personas.md`: Key stakeholders and their roles in modernization initiatives.
+- `deliverables/`: Completed research projects and professional publications.
+
 
 <!--Goals of the WG are:
 
