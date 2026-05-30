@@ -1,47 +1,37 @@
 ![](docs/images/modernization-wg-horizontal-color.png)
 
-# Modernization Workgroup
+# Modernization Working Group
 
-**The Modernization Working Group** will create a common definition and framework around modernization in the mainframe space; produce educational material and promote all messages and definitions wider landscape for better alignment.
+The Open Mainframe Project Modernization Working Group provides leadership in defining modernization for mainframes and mainframe applications with a broad view of the options, focusing on how to achieve business outcomes.
 
-<!--Goals of the WG are:
+The working group creates a common definition and framework around modernization in the mainframe space, produces educational material, and promotes shared messages and definitions across the wider ecosystem.
 
-1. _goal 1_
-2. ...
+## Goals
 
-_Non-goals are things that the working group are intentionally choosing not to do, the things not expected to change due to the working groups efforts, or the subject matter areas that the working groups doesn’t want to address at this time. _
-
-Non-goals of the WG are:
-
-1. _non goal 1_
-2. ... -->
-
-The TAC member sponsor of this working group is _TAC sponsor name_
+- Collaborate on a common definition of “mainframe modernization”.
+- Create a framework through which vendors and users can highlight modernization options.
+- Produce educational materials about modernization options and real-world examples.
+- Create one go-to place for information about mainframe modernization.
+- Educate the market through social media, blogs, articles, and conferences.
+- Identify opportunities for future Open Mainframe projects to enable modernization.
 
 ## Deliverables
 
-_provide a list of planned deliverables, or links to the deliverables. A best practice is to have a directory named [deliverables](deliverables) in the repo for hosting and managing deliverables._
+- [Defining Mainframe Modernization](modernization-definition.md): the working group’s current framing for modernization outcomes, tradeoffs, and hybrid-cloud considerations.
+- Educational materials, white papers, and examples published through the [Modernization Working Group page](https://openmainframeproject.org/our-projects/working-groups/modernization-working-group/).
+- Meeting notes and related materials collected in the [meetings](meetings) directory when they are stored in this repository.
 
 ## Communication
 
-This WG communicates on the following channels:
+This working group communicates on the following channels:
 
-- Subscribe to email list: https://lists.openmainframeproject.org/g/wg-mainframe-modernization
-- Distribution list: wg-modernization@lists.openmainframeproject.org
-- _slack channel_
-- _any other channels_
-...
+- Mailing list: <https://lists.openmainframeproject.org/g/wg-mainframe-modernization>
+- Distribution list: <wg-modernization@lists.openmainframeproject.org>
+- Open Mainframe Project Slack: `#wg-modernization`
+- Working group page: <https://openmainframeproject.org/our-projects/working-groups/modernization-working-group/>
 
 ## Meetings
 
-See the [Open Mainframe Project public calendar](https://calendar.openmainframeproject.org). This WG meets _meeting day/time and frequency_. 
+Modernization Working Group meetings are listed on the [Open Mainframe Project public calendar](https://calendar.openmainframeproject.org). Subscribe to the mailing list to receive meeting announcements and calendar updates.
 
-_provide the Zoom/conference call details_
-
-## In-person meetings
-
-_list if applicable, or skip if not_
-
-## Meeting notes
-
-Meeting notes, recordings, and any presentations made during WG meetings are available [here](meetings).
+Meeting notes, recordings, and presentations can be stored in the [meetings](meetings) directory when they are tracked in this repository.
