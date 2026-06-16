@@ -4,43 +4,41 @@
 
 **The Modernization Working Group** will create a common definition and framework around modernization in the mainframe space; produce educational material and promote all messages and definitions wider landscape for better alignment.
 
-<!--Goals of the WG are:
-
-1. _goal 1_
-2. ...
-
-_Non-goals are things that the working group are intentionally choosing not to do, the things not expected to change due to the working groups efforts, or the subject matter areas that the working groups doesn’t want to address at this time. _
-
+Goals of the WG are:
+ 
+1. Formulate a standardized definition and framework for Mainframe Modernization to align industry expectations.
+2. Produce high-quality educational materials, white papers, and reference architectures.
+3. Foster collaboration and exchange of patterns among mainframe and hybrid-cloud practitioners.
+ 
 Non-goals of the WG are:
-
-1. _non goal 1_
-2. ... -->
-
-The TAC member sponsor of this working group is _TAC sponsor name_
-
+ 
+1. Endorsing, promoting, or certifying specific vendor solutions or commercial modernization tools.
+2. Developing or maintaining software codebases or SDKs (excluding documentation templates and scripts).
+ 
+The TAC member sponsor of this working group is the TAC Chair.
+ 
 ## Deliverables
-
-_provide a list of planned deliverables, or links to the deliverables. A best practice is to have a directory named [deliverables](deliverables) in the repo for hosting and managing deliverables._
-
+ 
+- [Mainframe Modernization Definition and Framework Document](modernization-definition.md)
+- Reference architectures and educational materials (to be published in the `docs` folder)
+ 
 ## Communication
-
+ 
 This WG communicates on the following channels:
-
+ 
 - Subscribe to email list: https://lists.openmainframeproject.org/g/wg-mainframe-modernization
 - Distribution list: wg-modernization@lists.openmainframeproject.org
-- _slack channel_
-- _any other channels_
-...
-
+- Slack channel: `#wg-mainframe-modernization` on the Open Mainframe Slack workspace
+ 
 ## Meetings
-
-See the [Open Mainframe Project public calendar](https://calendar.openmainframeproject.org). This WG meets _meeting day/time and frequency_. 
-
-_provide the Zoom/conference call details_
-
+ 
+See the [Open Mainframe Project public calendar](https://calendar.openmainframeproject.org). This WG meets bi-weekly on Thursdays at 10:00 AM EST.
+ 
+Zoom/conference call details: Check the public calendar invite or mailing list for the Zoom meeting link.
+ 
 ## In-person meetings
-
-_list if applicable, or skip if not_
+ 
+- Annual meeting at the Open Mainframe Summit and other co-located events.
 
 ## Meeting notes
 
