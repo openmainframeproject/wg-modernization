@@ -1,0 +1,25 @@
+name: Build Meeting Agenda
+
+on:
+  schedule:
+    # Standard Cron for every 2 weeks or trigger from config.
+    # Users can set ISO interval using the schedules metadata if using custom engines:
+    # schedules: 2026-06-18T16:00:00.0Z/P2W
+    - cron: '0 16 * * 4'
+  workflow_dispatch:
+
+jobs:
+  build_agenda:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Build Agenda from Issues
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          echo "Searching for issues labeled with 'meeting'..."
+          gh issue list --label "meeting" --state open --json number,title,body > raw_agenda.json
+          echo "Compiling meeting agenda..."
+          # Automation to compile raw_agenda.json into a new meeting notes file in meetings/

@@ -1,0 +1,23 @@
+name: Send Meeting Agenda
+
+on:
+  workflow_run:
+    workflows: ["Build Meeting Agenda"]
+    types:
+      - completed
+  workflow_dispatch:
+
+jobs:
+  send_agenda:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Send Agenda to Mailing List
+        env:
+          COMMUNITY_NAME: "[COMMUNITY NAME]"
+          MAILING_LIST_EMAIL: "[MAILING LIST EMAIL]"
+        run: |
+          echo "Sending the compiled meeting agenda for ${COMMUNITY_NAME} to ${MAILING_LIST_EMAIL}..."
+          # Real automation logic to dispatch email to the list
